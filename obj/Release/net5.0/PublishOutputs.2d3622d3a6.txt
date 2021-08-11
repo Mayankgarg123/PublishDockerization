@@ -1,0 +1,11 @@
+C:\Users\Shivang\source\repos\PublishDockerization\PublishDockerization\obj\Docker\publish\PublishDockerization.exe
+C:\Users\Shivang\source\repos\PublishDockerization\PublishDockerization\obj\Docker\publish\appsettings.Development.json
+C:\Users\Shivang\source\repos\PublishDockerization\PublishDockerization\obj\Docker\publish\appsettings.json
+C:\Users\Shivang\source\repos\PublishDockerization\PublishDockerization\obj\Docker\publish\PublishDockerization.dll
+C:\Users\Shivang\source\repos\PublishDockerization\PublishDockerization\obj\Docker\publish\PublishDockerization.deps.json
+C:\Users\Shivang\source\repos\PublishDockerization\PublishDockerization\obj\Docker\publish\PublishDockerization.runtimeconfig.json
+C:\Users\Shivang\source\repos\PublishDockerization\PublishDockerization\obj\Docker\publish\PublishDockerization.pdb
+C:\Users\Shivang\source\repos\PublishDockerization\PublishDockerization\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Users\Shivang\source\repos\PublishDockerization\PublishDockerization\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Shivang\source\repos\PublishDockerization\PublishDockerization\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Shivang\source\repos\PublishDockerization\PublishDockerization\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
